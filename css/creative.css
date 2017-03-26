@@ -17,7 +17,7 @@ hr {
   max-width: 50px; }
 
 hr.light {
-  border-color: white; }
+  border-color: silver; }
 
 a {
   -webkit-transition: all 0.2s;
@@ -45,7 +45,7 @@ p {
 
 .bg-dark {
   background-color: #222222 !important;
-  color: white; }
+  color: silver; }
 
 .text-faded {
   color: rgba(255, 255, 255, 0.7); }
@@ -60,7 +60,7 @@ aside {
   padding: 0; }
 
 #mainNav {
-  background-color: white;
+  background-color: silver;
   border-color: rgba(34, 34, 34, 0.05);
   font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
   -webkit-transition: all 0.2s;
@@ -101,15 +101,15 @@ aside {
       #mainNav .navbar-brand {
         color: rgba(255, 255, 255, 0.7); }
         #mainNav .navbar-brand:hover, #mainNav .navbar-brand:focus {
-          color: white; }
+          color: silver; }
       #mainNav .navbar-nav > li.nav-item > a.nav-link,
       #mainNav .navbar-nav > li.nav-item > a.nav-link:focus {
         color: rgba(255, 255, 255, 0.7); }
         #mainNav .navbar-nav > li.nav-item > a.nav-link:hover,
         #mainNav .navbar-nav > li.nav-item > a.nav-link:focus:hover {
-          color: white; }
+          color: silver; }
       #mainNav.navbar-shrink {
-        background-color: white;
+        background-color: silver;
         border-color: rgba(34, 34, 34, 0.05); }
         #mainNav.navbar-shrink .navbar-brand {
           color:#2E0854;
@@ -134,7 +134,7 @@ header {
   background-position: center;
   background-image: url("../img/header.jpg");
   text-align: center;
-  color: white; }
+  color: silver; }
   header .header-content {
     position: relative;
     text-align: center;
@@ -194,7 +194,7 @@ header {
   max-width: 650px;
   margin: 0 auto; }
   .portfolio-box .portfolio-box-caption {
-    color: white;
+    color: silver;
     opacity: 0;
     display: block;
     background: rgba(240, 95, 64, 0.9);
@@ -244,8 +244,8 @@ header {
 
 .btn-default {
   color: #222222;
-  background-color: white;
-  border-color: white; }
+  background-color: silver;
+  border-color: silver; }
   .btn-default:focus, .btn-default.focus {
     color: #222222;
     background-color: #e6e6e6;
@@ -273,34 +273,34 @@ header {
   fieldset[disabled] .btn-default:hover,
   fieldset[disabled] .btn-default:focus,
   fieldset[disabled] .btn-default.focus {
-    background-color: white;
-    border-color: white; }
+    background-color: silver;
+    border-color: silver; }
   .btn-default .badge {
-    color: white;
+    color: silver;
     background-color: #222222; }
 
 .btn-primary {
-  color: white;
+  color: silver;
   background-color:#2E0854;
   border-color:#2E0854; }
   .btn-primary:focus, .btn-primary.focus {
-    color: white;
+    color: silver;
     background-color: #551A8B;
     border-color: #a4270d; }
   .btn-primary:hover {
-    color: white;
+    color: silver;
     background-color: #551A8B;
     border-color:#551A8B; }
   .btn-primary:active, .btn-primary.active,
   .open > .btn-primary.dropdown-toggle {
-    color: white;
+    color: silver;
     background-color: #551A8B;
     border-color:#551A8B; }
     .btn-primary:active:hover, .btn-primary:active:focus, .btn-primary:active.focus, .btn-primary.active:hover, .btn-primary.active:focus, .btn-primary.active.focus,
     .open > .btn-primary.dropdown-toggle:hover,
     .open > .btn-primary.dropdown-toggle:focus,
     .open > .btn-primary.dropdown-toggle.focus {
-      color: white;
+      color: silver;
       background-color: #c93110;
       border-color: #a4270d; }
   .btn-primary:active, .btn-primary.active,
@@ -314,7 +314,7 @@ header {
     border-color:#2E0854; }
   .btn-primary .badge {
     color:#2E0854;
-    background-color: white; }
+    background-color: silver; }
 
 .btn {
   font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
@@ -327,21 +327,21 @@ header {
   padding: 15px 30px; }
 
 ::-moz-selection {
-  color: white;
+  color: silver;
   text-shadow: none;
   background: #222222; }
 
 ::selection {
-  color: white;
+  color: silver;
   text-shadow: none;
   background: #222222; }
 
 img::selection {
-  color: white;
+  color: silver;
   background: transparent; }
 
 img::-moz-selection {
-  color: white;
+  color: silver;
   background: transparent; }
 
 body {

@@ -99,7 +99,7 @@ aside{
 @media (min-width:992px){
 	#mainNav{
 		background-color:transparent;
-		border-color:rgba(255,255,255,.3)
+		border-color:transparent;
 		}
 	#mainNav .navbar-brand{
 		color:rgba(255,255,255,.7)
@@ -114,8 +114,8 @@ aside{
 		color:silver
 		}
 	#mainNav.navbar-shrink{
-		background-color:silver;
-		border-color:rgba(34,34,34,.05)
+		background-color:transparent;
+		border-color:rgba(255,255,255,.3)
 		}
 	#mainNav.navbar-shrink .navbar-brand{
 		color:#2E0854;

@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\img",
+    "\\img\\portfolio",
+    "\\img\\portfolio\\fullsize"
   ],
-  "SelectedNode": "\\index.html",
+  "SelectedNode": "\\img\\portfolio\\fullsize\\1.jpg",
   "PreviewInSolutionExplorer": false
 }

@@ -17,7 +17,7 @@ hr {
   max-width: 50px;
 }
 hr.light {
-  border-color: white;
+  border-color: #C0C0C0;
 }
 a {
   -webkit-transition: all 0.35s;
@@ -126,7 +126,7 @@ aside {
     color: #C0C0C0;
   }
   .navbar-default.affix {
-    background-color: white;
+    background-color: #C0C0C0;
     border-color: rgba(34, 34, 34, 0.05);
   }
   .navbar-default.affix .navbar-header .navbar-brand {
@@ -230,7 +230,7 @@ header .header-content .header-content-inner p {
   margin: 0 auto;
 }
 .portfolio-box .portfolio-box-caption {
-  color: white;
+  color: #C0C0C0;
   opacity: 0;
   display: block;
   background: rgba(240, 95, 64, 0.9);
@@ -332,11 +332,11 @@ fieldset[disabled] .btn-default.active {
   border-color: #C0C0C0;
 }
 .btn-default .badge {
-  color: white;
+  color: #C0C0C0;
   background-color: #222222;
 }
 .btn-primary {
-  color: white;
+  color: #C0C0C0;
   background-color: #F05F40;
   border-color: #F05F40;
   -webkit-transition: all 0.35s;

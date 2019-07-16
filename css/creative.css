@@ -48,7 +48,7 @@ p {
   color: silver; }
 
 .text-faded {
-  color: rgba(255, 255, 255, 0.7); }
+  color: rgba(255, 255, 255, 0.9); }
 
 section {
   padding: 100px 0; }
@@ -61,7 +61,7 @@ aside {
 
 #mainNav {
   background-color:transparent;
-  border-color: rgba(34, 34, 34, 0.05);
+  border-color: rgba(34, 34, 34, 0.75);
   font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
@@ -110,7 +110,7 @@ aside {
           color: silver; }
       #mainNav.navbar-shrink {
         background-color: silver;
-        border-color: rgba(34, 34, 34, 0.05); }
+        border-color: rgba(34, 34, 34, 0.7); }
         #mainNav.navbar-shrink .navbar-brand {
           color:#2E0854;
           font-size: 16px; }
@@ -150,7 +150,7 @@ header {
       margin: 30px auto; }
     header .header-content .header-content-inner p {
       font-weight: 300;
-      color: rgba(255, 255, 255, 0.7);
+      color: white;
       font-size: 16px;
       margin-bottom: 50px; }
   @media (min-width: 768px) {

@@ -189,21 +189,21 @@ header .header-content .header-content-inner p{
 }
 .section-heading{
 	margin-top:0;
-	background-color=silver
+	background-color:silver
 	}
 	.service-box{
 		max-width:400px;
 		margin:50px auto 0;
-		background-color=silver
+		background-color:silver
 		}
 	@media (min-width:992px){
 		.service-box{
-			background-color=silver;
+			background-color:silver;
 			margin:20px auto 0
 			}
 		}
 .service-box p{
-	background-color=silver;
+	background-color:silver;
 	margin-bottom:0
 	}
 .portfolio-box{
